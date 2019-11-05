@@ -21,13 +21,15 @@ Get Token [here](https://api.metrolisboa.pt/store/apis/info?name=EstadoServicoML
 
 ## Available functions
 
-getRedLineWaitingTime
-getYellowLineWaitingTime
-getGreenLineWaitingTime
-getBlueLineWaitingTime
-getRedLineStatus
-getYellowStatus
-getGreenStatus
-getBlueLineStatus
-getStationInfo (station parameter id is mandatory)
-getStationWaitingTime (station parameter id is mandatory)
+getRedLineWaitingTime  
+getYellowLineWaitingTime  
+getGreenLineWaitingTime  
+getBlueLineWaitingTime  
+getRedLineStatus  
+getYellowStatus  
+getGreenStatus  
+getBlueLineStatus  
+getStationInfo (station parameter id is mandatory)  
+getStationWaitingTime (station parameter id is mandatory)  
+
+.
