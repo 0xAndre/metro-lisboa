@@ -1,0 +1,20 @@
+{
+  "name": "metro-lisboa",
+  "version": "1.0.0",
+  "description": "wrapper for metro lisboa webapi",
+  "main": "main.js",
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "metro",
+    "lisboa",
+    "api"
+  ],
+  "author": "x0uter",
+  "license": "MIT"
+}
